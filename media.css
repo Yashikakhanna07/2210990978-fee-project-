@@ -1,0 +1,159 @@
+@media screen and  (max-width: 768px){
+.text{
+    margin-left: 30px;
+    font-size: medium;
+}
+.nav-list-2,.text-3,.text-4{
+    display:none;
+}
+.text-2{
+    margin-left: 40px;
+    font-size: 10px;
+}
+.logo{
+    margin-left: 70px;
+}
+.text-5{
+    font-size:75px;
+    margin-left: -280px;
+    margin-top: -150px;
+
+}
+.text-6{
+    font-size:40px;
+    margin-left: -280px;
+    margin-top: 5px;
+}
+.text-7 {
+width: 300px;
+margin-left: 50px;
+}
+.rectangle-5-holder{
+margin-top: 130px;
+margin-left: 100px;
+}
+.banner-01{
+   margin-left: -60px;
+   
+}
+.banner-02{
+    margin-top: 50px;
+    margin-right: 620px;
+    width: 550px;
+}
+.text-27,.text-40{
+    margin-left: -700px;
+}
+.text-28,.text-41{
+    margin-left: -700px;
+    font-size: small;
+}
+.product-03{
+    margin-top: 470px;
+    margin-left: -260px;
+}
+.product-04{
+    margin-top: 920px;
+   margin-right: 550px;
+}
+.image-4{
+    margin-top: 1400px;
+    margin-left: -850px;
+}
+.info-4{
+    margin-top: 20px;
+    margin-left: -790px;
+}
+.left-right-arrow {
+    display: none;
+}
+.group-6,.group-7,.right-side-product{
+   display: none;
+}
+.group-5{
+    margin-left: 50px;
+}
+.center-banner{
+    width: 300px;
+    clip-path: inset(50px 0 220px);
+     margin-top: 580px;
+     margin-left: -350px;
+}
+.text-73{
+    width: 120px;
+    height: 150px;
+}
+.text-74{
+    font-size: 100px;
+}
+.subscribe-newsletter{
+    margin-top: -200px;
+}
+.product-section{
+    margin-top: -160px;
+    height: 1030px;
+}
+.brand-logo{
+    width: 540px;
+    height: 100px;
+    margin-left:5px;
+    clip-path: inset(0 52px);
+}
+.l-constrained{
+    width: 50px;
+    margin-left: 10px;
+
+}
+.row-12{
+    width:90px;
+}
+.product-2{
+    margin-left: -90px;
+    margin-top:30px;
+}
+.text-97{
+    margin-left: -60px;
+}
+.bottam-text{
+    margin-top:-3px;
+    margin-left:-200px;
+
+}
+.text-91{
+    margin-left: -25px;
+}
+.nav-list{
+    display: none;
+}
+.col-2{
+    margin-top: -500px;
+    margin-left: -40px;
+}
+
+.text-92,.follow-us,.paymethods{
+    display: none;
+}
+.rounded-rectangle-1-copy,.rounded-rectangle-1-copy-2,.text-11,.text-13,.text-14,.text-16,.text-17,.text-12,.text-15{
+    display: none;
+}
+.text-9{
+    margin-top: -12px;
+}
+.text-12{
+    margin-left: -530px;
+  
+}
+.text-15{
+    margin-left: -850px;
+}
+.toggle-button{
+    display: block;
+    margin-left:-200px;
+}
+.text-9{
+    font-size: 25px;
+    top:100px;
+}
+
+
+}
